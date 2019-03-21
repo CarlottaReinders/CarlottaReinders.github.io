@@ -1,5 +1,5 @@
 
-function Clickme {
+function Clickme{
     var person = prompt ("Please enter your name");
 
 if (person !=null) {
