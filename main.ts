@@ -4,6 +4,6 @@ function Clickme{
 
 if (person !=null) {
     document.getElementById("Hello").innerHTML =
-    "Hello " + person + "! How are you today?";
+    "Hello " + person;
 }
 }
